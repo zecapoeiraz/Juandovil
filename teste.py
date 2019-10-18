@@ -1,4 +1,5 @@
 ## DA VELHA ##
+#que véa?#
 
 def imprimeCampo(campo):
         c = 0
